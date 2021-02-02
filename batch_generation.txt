@@ -1,0 +1,10 @@
+def batch_generator(X, y, batch_size):
+    np.random.seed(42)
+    perm = np.random.permutation(len(X))
+    n_batches=len(X)//batch_size;
+    if (len(X) % batch_size != 0):
+      n_batches+=1
+    for i in range(n_batches):
+      X_batch2=X[(i)*batch_size:(i+1)*batch_size]
+      y_batch2=y[i*batch_size:(i+1)*batch_size]
+      yield X_batch2, y_batch2

@@ -1,0 +1,3 @@
+﻿  Contribution_descriptors.cpp
+C:\Users\79192\source\repos\Bank_operations\Contribution_discriptors\Contribution_descriptors.h(19,3): warning C4091: typedef : пропускается слева от "Bank_operations::Date", когда ни одна переменная не объявлена
+  Contribution_discriptors.vcxproj -> C:\Users\79192\source\repos\Bank_operations\Debug\Contribution_discriptors.lib
