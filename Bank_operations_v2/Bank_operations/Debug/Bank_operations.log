@@ -1,5 +1,6 @@
-﻿  Contribution_table.cpp
-C:\Users\79192\source\repos\Bank_operations\Contribution_discriptors\Contribution_descriptors.h(19,3): warning C4091: typedef : пропускается слева от "Bank_operations::Date", когда ни одна переменная не объявлена
-C:\Users\79192\source\repos\Bank_operations\Bank_operations\Contribution_table.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-C:\Users\79192\source\repos\Bank_operations\Bank_operations\Contribution_table.cpp(83): warning C4715: Bank_operations::Contribution_table::replace: значение возвращается не при всех путях выполнения
-  Bank_operations.vcxproj -> C:\Users\79192\source\repos\Bank_operations\Debug\Contribution_table.lib
+﻿  pch.cpp
+  Contribution_table.cpp
+D:\dl_school\Bank_operations_v2\Contribution_discriptors\Contribution_descriptors.h(19,3): warning C4091: typedef : пропускается слева от "Bank_operations::Date", когда ни одна переменная не объявлена
+D:\dl_school\Bank_operations_v2\Bank_operations\Contribution_table.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\dl_school\Bank_operations_v2\Bank_operations\Contribution_table.cpp(83): warning C4715: Bank_operations::Contribution_table::replace: значение возвращается не при всех путях выполнения
+  Bank_operations.vcxproj -> D:\dl_school\Bank_operations_v2\Debug\Contribution_table.lib

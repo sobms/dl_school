@@ -1,8 +1,9 @@
 ﻿  Application.cpp
-C:\Users\79192\source\repos\Bank_operations\Contribution_discriptors\Contribution_descriptors.h(19,3): warning C4091: typedef : пропускается слева от "Bank_operations::Date", когда ни одна переменная не объявлена
-C:\Users\79192\source\repos\Bank_operations\Application\Application.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-C:\Users\79192\source\repos\Bank_operations\Bank_operations\Contribution_table.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-C:\Users\79192\source\repos\Bank_operations\Application\App_functions.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-C:\Users\79192\source\repos\Bank_operations\Application\App_functions.h(11,10): warning C4101: deposit_sum: неиспользованная локальная переменная
-C:\Users\79192\source\repos\Bank_operations\Application\App_functions.h(12,16): warning C4101: charge_percent: неиспользованная локальная переменная
-  Application.vcxproj -> C:\Users\79192\source\repos\Bank_operations\Debug\Application.exe
+D:\dl_school\Bank_operations\Contribution_discriptors\Contribution_descriptors.h(19,3): warning C4091: typedef : пропускается слева от "Bank_operations::Date", когда ни одна переменная не объявлена
+D:\dl_school\Bank_operations\Application\Application.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\dl_school\Bank_operations\Bank_operations\Contribution_table.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\dl_school\Bank_operations\Application\App_functions.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\dl_school\Bank_operations\Application\App_functions.h(11,10): warning C4101: deposit_sum: неиспользованная локальная переменная
+D:\dl_school\Bank_operations\Application\App_functions.h(12,16): warning C4101: charge_percent: неиспользованная локальная переменная
+  LINK : не найден или не выполнена сборка D:\dl_school\Bank_operations\Debug\Application.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Application.vcxproj -> D:\dl_school\Bank_operations\Debug\Application.exe

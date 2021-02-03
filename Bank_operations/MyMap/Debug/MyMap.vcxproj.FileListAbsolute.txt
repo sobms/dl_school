@@ -1,2 +1,0 @@
-C:\Users\79192\source\repos\Bank_operations\Debug\MyMap.pdb
-C:\Users\79192\source\repos\Bank_operations\MyMap\Debug\MyMap.pdb

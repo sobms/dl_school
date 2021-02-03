@@ -1,2 +1,3 @@
 ﻿  testing.cpp
-  testing.vcxproj -> C:\Users\79192\source\repos\Bank_operations\Debug\testing.exe
+  LINK : не найден или не выполнена сборка D:\dl_school\Bank_operations\Debug\testing.exe при последней инкрементной компоновке; выполняется полная компоновка
+  testing.vcxproj -> D:\dl_school\Bank_operations\Debug\testing.exe
