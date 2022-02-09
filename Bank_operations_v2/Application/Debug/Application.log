@@ -1,8 +1,0 @@
-﻿  Application.cpp
-D:\dl_school\Bank_operations_v2\Contribution_discriptors\Contribution_descriptors.h(19,3): warning C4091: typedef : пропускается слева от "Bank_operations::Date", когда ни одна переменная не объявлена
-D:\dl_school\Bank_operations_v2\Application\Application.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-D:\dl_school\Bank_operations_v2\Bank_operations\Contribution_table.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-D:\dl_school\Bank_operations_v2\Application\App_functions.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-D:\dl_school\Bank_operations_v2\Application\App_functions.h(11,10): warning C4101: deposit_sum: неиспользованная локальная переменная
-D:\dl_school\Bank_operations_v2\Application\App_functions.h(12,16): warning C4101: charge_percent: неиспользованная локальная переменная
-  Application.vcxproj -> D:\dl_school\Bank_operations_v2\Debug\Application.exe

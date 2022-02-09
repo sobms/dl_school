@@ -1,4 +1,0 @@
-C:\Users\79192\source\repos\Bank_operations\Debug\Contribution_table.pdb
-C:\Users\79192\source\repos\Bank_operations\Bank_operations\Debug\Contribution_table.pdb
-D:\dl_school\Bank_operations\Debug\Contribution_table.pdb
-D:\dl_school\Bank_operations\Bank_operations\Debug\Contribution_table.pdb

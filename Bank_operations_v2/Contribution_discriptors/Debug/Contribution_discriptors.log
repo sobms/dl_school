@@ -1,4 +1,0 @@
-﻿  pch.cpp
-  Contribution_descriptors.cpp
-D:\dl_school\Bank_operations_v2\Contribution_discriptors\Contribution_descriptors.h(19,3): warning C4091: typedef : пропускается слева от "Bank_operations::Date", когда ни одна переменная не объявлена
-  Contribution_discriptors.vcxproj -> D:\dl_school\Bank_operations_v2\Debug\Contribution_discriptors.lib
